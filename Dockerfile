@@ -1,5 +1,5 @@
 FROM mediawiki
-MAINTAINER tech@ve3lsr.ca
+MAINTAINER projects@ve3lsr.ca
 
  # Install needed php extensions: ldap
 RUN \
